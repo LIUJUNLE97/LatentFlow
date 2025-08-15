@@ -1,0 +1,9 @@
+epochs = 2000
+epochs_p2z = 1000
+lr = 1e-4
+lr_p2z = 1e-4
+batch_size = 4
+batch_size_p2z = 1
+num_workers = 4
+beta_end = 0.01
+alpha_end = 0.01
